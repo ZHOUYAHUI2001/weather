@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Application-master/app/src/main/res/drawable/add.xml" value="0.1" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/add2.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/add2_foreground.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/delete_new.xml" value="0.11302083333333333" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/delete_new_w.xml" value="0.11302083333333333" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/frag_bg.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/hotbg.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/hotbg2.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/right.xml" value="0.12291666666666666" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/searchbg.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/drawable/searchbg2.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/activity_city_manager.xml" value="0.1" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/activity_delete2.xml" value="0.17135416666666667" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/activity_delete_city.xml" value="0.16666666666666666" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/activity_main.xml" value="0.17135416666666667" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/activity_main2.xml" value="0.17135416666666667" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/activity_more.xml" value="0.16666666666666666" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/activity_more2.xml" value="0.17135416666666667" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/activity_search.xml" value="0.17135416666666667" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/activity_search_city.xml" value="0.17135416666666667" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/fragment_city_weather.xml" value="0.22" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/item_city_manager.xml" value="0.22" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/item_deletecity.xml" value="0.15572916666666667" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/item_deletecity2.xml" value="0.17135416666666667" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/item_hotcity.xml" value="0.16666666666666666" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/item_hotcity2.xml" value="0.17135416666666667" />
+        <entry key="..\:/Application-master/app/src/main/res/layout/item_main_center.xml" value="0.22" />
+        <entry key="..\:/Application-master/app/src/main/res/mipmap-anydpi-v26/add2.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/mipmap-anydpi-v26/add2_round.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1875" />
+        <entry key="..\:/Application-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

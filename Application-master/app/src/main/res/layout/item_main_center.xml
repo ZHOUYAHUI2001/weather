@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="#1242a0">
+
+    <TextView
+        android:id="@+id/item_center_tv_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="年-月-日"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/item_center_tv_con"
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/item_center_tv_date"
+        android:layout_marginTop="10dp"
+
+        android:text="晴"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/item_center_tv_winddirection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/item_center_tv_date"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/item_center_tv_con"
+        android:text="风"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/item_center_tv_temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/item_center_tv_date"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:text="9~-1℃"
+        android:textSize="20sp" />
+<!--<ImageView
+        android:id="@+id/item_center_iv"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/item_center_tv_temp"
+        android:src="@mipmap/icon_add" />-->
+
+    <!--下划线-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/item_center_tv_con"
+        android:layout_marginTop="5dp"
+        android:background="#E0E0E0" />
+</RelativeLayout>
